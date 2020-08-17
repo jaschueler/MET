@@ -16,7 +16,7 @@ import java.util.Map;
 public class MoleculeEquivalence {
 
     // the result of the equivalence test
-    private boolean equivalent = false;     // whether the two molecules are equivalent
+    private boolean equivalent = false;     // whether the two molecules are equivalent (in 2D)
     private Map<IAtom, IAtom> mapping;      // a mapping from mol1 to mol2 (isomorphism function)
 
     /**
