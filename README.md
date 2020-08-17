@@ -14,7 +14,7 @@ Our software is designed to be included in CDK software projects as a blackbox m
 
 ### 1. Java Code
 
-Include the [MET jar-file](artifacts/met.jar) as a library to your Java project. 
+Include the [MET jar-file](artifacts/) as a library to your Java project. 
 
 The class `met.MoleculeEquivalence` (included in the file  [`src/met/MoleculeEquivalence.java`](src/me/tMoleculeEquivalence.java)) is the only class you need to know.
 We included two examplary Java files  [`TestMoleculeEquivalence.java`](src/met/example/TestMoleculeEquivalence.java) and  [`TestMoleculePartitioning.java`](src/met/example/TestMoleculePartitioning.java) that demonstrate how this class can be used.
