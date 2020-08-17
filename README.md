@@ -6,7 +6,7 @@ MET is build on the [Chemical Development Kit (CDK)](https://github.com/cdk/cdk)
 
 **If you use our software in research, please cite**
 
-> Schüler et al., Journal of Cheminformatics 2020?, DOI ?
+> 
 
 ## Usage 
 
