@@ -35,7 +35,7 @@ For users who wish to test MET's functionality without writing their own applica
 
 #### 2.1 Equivalence Test
 
-For a quick test on whether two SDF-encoded molecules are equivalent, you can use [`check.sh`](bin/check.sh) script. On a linux system, run
+For a quick test on whether two SDF-encoded molecules are equivalent, you can use [`check.sh`](scripts/check.sh) script. On a linux system, run
 
     sh scripts/check.sh <SDF>
      
@@ -78,7 +78,7 @@ In contrast, the atom with ids 19 und 20 are exchanged.
 
 #### 2.2 Partitioning
 
-The second tool included in the [bin](bin/) directory can be used to partition a set of molecules into classes of equivalent atoms. Run
+The second tool included in the [scripts](scripts/) directory can be used to partition a set of molecules into classes of equivalent atoms. Run
 
     sh partition.sh <SDF>
     
