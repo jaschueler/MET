@@ -45,7 +45,7 @@ For example, in linux systems, the command
 
     sh scripts/check.sh data/example.sdf
     
-tests the first two molecules in our [example SDF file](data/example.sdf) and finds that these molecules are not equivalent. 
+tests the first two molecules in our [example SDF file](data/example.sdf) and finds that these molecules are equivalent. 
 
     5731 and 441240 are EQUIVALENT!
 
