@@ -2,7 +2,7 @@
 
 Molecule Equivalence Tester (MET) is a small Java library to test whether two molecules are equivalent, i.e. whether they can be made identical by relabeling their atom ids. 
 Our software can be configured to consider several atom traits like radicals and hydrogen or deuterium count.
-MET is build on the [Chemical Development Kit (CDK)](https://github.com/cdk/cdk), which it requires to run. 
+MET is build on the [Chemistry Development Kit (CDK)](https://github.com/cdk/cdk), which it requires to run. 
 
 **If you use our software in research, please cite**
 
